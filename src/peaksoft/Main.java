@@ -10,6 +10,7 @@ public class Main {
         System.out.println("""
                 this is git & github
                 i'm on test branch
+                why I can't conflict
                 """);
     }
 }
